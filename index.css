@@ -1,0 +1,14 @@
+td{
+    width: 100px;
+    height: 100px;
+    background-color: brown ;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+   
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
